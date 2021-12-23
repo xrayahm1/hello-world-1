@@ -3,7 +3,9 @@
 	  <div>
     <h1>New user Register for DevOps Learning</h1
 	  </div>>
-    <p>Please fill in this form to create an account.</p>
+   
+	  <h2> Ali is soooooo ccooool omg <h2>
+	  <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
